@@ -7,3 +7,11 @@ Belajar kelas Crash Course on Python. (Progress 50%)
   * Belajar tentang Functions pada Python, Conditionals. Saya mempelajari returning value, comparison operators, logical operator
   * Beljar tentang Loops atau perulangan pada Python. Saya mempelajari tentang bagaimana dan kapan harus menggunakan while loop dan for loop.
   * belajar tentang Recursion.
+
+19 Agustus 2023
+Belajar kelas Crash Course on Python. (Progress 100%)
+ * belajar tentang strings pada Python. saya mempelajari penggunaan string indexing dan slicing, metode string, format string.
+ * Belajar tentang list dan tuples. Saya mempelajari bagaimana penggunaan list dan tuples. Juga mengiterasi penggunaan list menggunakan enumerate.
+ * Belajar tentang Dictionary pada python.
+ * Belajar tentang OOP pada python. saya belajar tentang bagaimana penggunaan OOP pada python.
+ * Belajar tentang penggunaan Class dan Object pada python. 
