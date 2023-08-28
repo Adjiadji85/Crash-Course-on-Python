@@ -1,5 +1,5 @@
-# Google_IT_Automation_with_Python_Professional
-Repository ini berisi pengalamanku belajar di Coursera (Bangkit Academy)
+# Crash_Course_on_Python
+Repository ini berisi pengalamanku belajar di Coursera (Bangkit Academy) pada modul Google_IT_Automation_with_Python_Professional_Certificate
 
 18 Agustus 2023
 Belajar kelas Crash Course on Python. (Progress 50%)
